@@ -51,6 +51,8 @@ There are multiple directives:
 - merge
 - delete
 - delete from primitive list
+- setElementOrder
+- retainKeys 
 
 `replace`, `merge` and `delete` are mutually exclusive.
 
